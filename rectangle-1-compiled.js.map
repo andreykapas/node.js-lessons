@@ -1,1 +1,0 @@
-{"version":3,"sources":["rectangle-1.js"],"names":[],"mappings":";;;;AAIA,QAAQ,SAAR,GAAoB,CAAC,CAAD,EAAI,CAAJ,KAAU,KAAK,IAAI,CAAJ,CAAL;AAC9B,QAAQ,IAAR,GAAe,CAAC,CAAD,EAAI,CAAJ,KAAU,IAAI,CAAJ","file":"rectangle-1-compiled.js","sourcesContent":["/**\n * Created by andrey on 15.4.16.\n */\n\nexports.perimeter = (x, y) => 2 * (x + y);\nexports.area = (x, y) => x * y;"]}
